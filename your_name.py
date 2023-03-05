@@ -1,14 +1,4 @@
 
-# A program that takes your name as input and outputs it
-# - Take user input
-# - Output it
-
-# I have refactored the task of capitalizing the name to the function capitalize name
-# Next, I want to create another function that creats a username handle based on the surname
-# Now I want to optimize the code. Make it short and sweet and at the same time readable and understandable
-# by other developers.
-
-
 def capitalize_name(r_name):
     
     r_name_list = r_name.split()
